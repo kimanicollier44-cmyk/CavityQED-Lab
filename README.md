@@ -1,4 +1,4 @@
-![CavityQED-Lab cover](assets/cover.png)
+![CavityQED-Lab cover](CavityQED-Lab%20cover.png)
 
 # CavityQED-Lab 🔦⚛️
 
